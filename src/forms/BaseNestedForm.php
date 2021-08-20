@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zafarajonovich\Yii2Forms\forms;
+namespace zafarjonovich\Yii2Forms\forms;
 
 use zafarajonovich\Yii2Forms\forms\BaseForm;
 use yii\base\Exception;

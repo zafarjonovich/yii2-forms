@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zafarajonovich\Yii2Forms\assets;
+namespace zafarjonovich\Yii2Forms\assets;
 
 use yii\bootstrap4\BootstrapAsset;
 use yii\web\AssetBundle;
