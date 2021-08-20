@@ -1,0 +1,14 @@
+{
+  "name": "zafarjonovich/yii2-forms",
+  "description": "Yii2 forms",
+  "type": "library",
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*",
+  },
+  "autoload": {
+    "psr-4": {
+      "zafarjonovich\\Yii2Forms\\": "src"
+    }
+  }
+}
